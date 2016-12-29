@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Domain", "HelloWorld.Domain\HelloWorld.Domain.csproj", "{6F93D713-8269-490D-A2DD-CDE43F311AF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.WebUI", "HelloWorld.WebUI\HelloWorld.WebUI.csproj", "{0891FF6A-4006-4DB6-8EA8-ABB3C85E5793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.UnitTest", "HelloWorld.UnitTest\HelloWorld.UnitTest.csproj", "{4E11F9CF-1437-438E-8228-EFC2192C581D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F93D713-8269-490D-A2DD-CDE43F311AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F93D713-8269-490D-A2DD-CDE43F311AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F93D713-8269-490D-A2DD-CDE43F311AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F93D713-8269-490D-A2DD-CDE43F311AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0891FF6A-4006-4DB6-8EA8-ABB3C85E5793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0891FF6A-4006-4DB6-8EA8-ABB3C85E5793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0891FF6A-4006-4DB6-8EA8-ABB3C85E5793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0891FF6A-4006-4DB6-8EA8-ABB3C85E5793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E11F9CF-1437-438E-8228-EFC2192C581D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E11F9CF-1437-438E-8228-EFC2192C581D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E11F9CF-1437-438E-8228-EFC2192C581D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E11F9CF-1437-438E-8228-EFC2192C581D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
